@@ -2,52 +2,7 @@
 Udemy Hunger Games inspired game
 
 ### 1 Testing Grounds Introduction ###
-
-+ Welcome, fresh start, new energy
-+ Did you go back and modify Building Escape?
-+ Most ambitious section yet
-+ Bookmark the live Google Slides
-+ Comment on the slides, especially typos
-+ Come say hi at [community.gamedev.tv](https://community.gamedev.tv)
-
-### Code Architecture Storing State ###
-
-
-
-### 2 Testing Grounds GDD ###
-
-+ The concept of the game
-+ The rules of the game
-+ Some of the asset requirements for the game
-+ Identify possible technical challenges.
-
-### 3 Using Git LFS (Large File Support) ###
-
-+ The distinction between Git vs GitHub
-+ Use Unreal’s toolbar & SourceTree
-+ Enable Git Large File Support (LFS)
-+ Setup on GitHub (no readme.md or initial commit)
-+ Push to GitHub and share
-+ Warning: may take a while on slow broadband.
-
-### 4 Marketing & Markdown ###
-
-+ Limitations of Unreal’s connection to GitHub
-+ How to reset to previous commit to combine
-+ Presenting your public GitHub page well
-+ Using Markdown to enrich formatting.
-
-### 5 Use git clean to Revert Project ###
-
-+ Upgrading my project to Unreal 4.13
-+ An overview of the scene
-+ How the First Person Character is composed
-+ Adding a spiral staircase.
-
 ### 6 First Person Character Overview ###
-
-
-
 ### 8 The Third Person Character ###
 
 + Add a third person character to the scene
